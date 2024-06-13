@@ -1,0 +1,48 @@
+{
+"info": {
+"accounts": {
+"youTube": "https://youtube.com",
+"instagram": "https://www.instagram.com",
+"gatabot_md": "https://github.com",
+"gatabotlite_md": "https://github.com",
+"facebook": "https://www.facebook.com",
+"tiktok": "https://www.tiktok.com",
+"threads": "https://www.threads.net",
+"paypal": "https://paypal.me",
+"github": "https://github.com",
+"mail": "pascal.keye@outlook.com",
+"all": "https://www.atom.biot"
+},
+"channels": {
+"channel1": "https://whatsapp.com",
+"channel2": "https://whatsapp.com",
+"channel3": "https://whatsapp.com5",
+"channel4": "https://t.me"
+},
+"groups": {
+"group1": "https://chat.whatsapp.com",
+"group2": "https://chat.whatsapp.com",
+"group3": "https://chat.whatsapp.com",
+"group4": "https://chat.whatsapp.com",
+"group5": "https://chat.whatsapp.com",
+"group6": "https://t.me"
+},
+"collaboration": {
+"group1": "https://chat.whatsapp.com",
+"group2": "https://chat.whatsapp.com",
+"group3": "https://chat.whatsapp.com",
+"group4": "https://chat.whatsapp.com"
+},
+"sponsors": {
+"boxmine": "https://www.youtube.com/watch?v=aDlfccMkr8E",
+"cafirexos": "https://www.youtube.com/watch?v=aDlfccMkr8E",
+"vortexus": "https://www.youtube.com/watch?v=aDlfccMkr8E",
+"asif": "https://www.youtube.com/watch?v=aDlfccMkr8E"
+},
+"others": {
+"assistance_num": "https://www.youtube.com/watch?v=aDlfccMkr8E",
+"yt_vid": "https://www.youtube.com/watch?v=aDlfccMkr8E",
+"group_support": "https://www.youtube.com/watch?v=aDlfccMkr8E"
+}
+}
+}
